@@ -1,0 +1,17 @@
+.btnBox {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px auto 20px;
+  padding: 0;
+}
+.btnTitle {
+  font-size: 24px;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+}
+.button {
+  width: 90px;
+  height: 24px;
+}
